@@ -1,0 +1,10 @@
+Which of the following is NOT a principle of Object-Oriented Programming (OOP)?;Encapsulation;Abstraction;Compilation;Inheritance;3
+What is the main purpose of encapsulation in Java?;To achieve runtime polymorphism;To hide implementation details and protect data;To allow multiple inheritance;To increase performance;2
+Which of the following correctly defines polymorphism in Java?;The ability of a method to have multiple implementations;The ability to define multiple classes in a single file;The ability to inherit from multiple classes;The ability to access private members of another class;1
+Which keyword is used to inherit a class in Java?;implements;extends;inherits;super;2
+Which of the following statements about abstraction in Java is true?;An abstract class cannot have concrete methods;An interface cannot have default methods;Abstract classes can have both abstract and non-abstract methods;Abstract classes can be instantiated;3
+Which of the following allows multiple inheritance in Java?;Abstract classes;Interfaces;Static methods;Final classes;2
+What will happen if a class is marked as final in Java?;It can be subclassed but not instantiated;It cannot be subclassed;It cannot contain methods;It can only be used in interfaces;2
+Which Java feature is demonstrated by method overloading and method overriding?;Encapsulation;Abstraction;Polymorphism;Inheritance;3
+What is the purpose of the super keyword in Java?;To call the superclass constructor;To access private members of a class;To create a new instance of the superclass;To stop method execution;1
+Which of the following statements about constructors in Java is false?;A constructor can have a return type;A constructor can be overloaded;If no constructor is defined, Java provides a default constructor;A constructor initializes objects of a class;1
