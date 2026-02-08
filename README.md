@@ -10,15 +10,16 @@ A multiple-choice quiz game where users answer questions and get a score at the 
 - Uses **OOP, Collections (ArrayList), and File Handling**.
 
 ## 📌 How to Run
-1. Open a terminal and navigate to the project root directory:
+- Open a terminal and navigate to the project root directory:
     cd "/Users/kavya/Documents/Quiz Application"
-3. Compile all Java source files:
+- Compile all Java source files:
    javac src/*/*.java
-5. Run the quiz application:
+- Run the quiz application:
    java -cp src main.QuizGame
 
 <img width="1470" alt="Screenshot 2025-02-09 at 8 28 54 PM" src="https://github.com/user-attachments/assets/d2b73bc9-d75c-4c6e-b2ae-6593fb4f4d91" />
 <img width="1470" alt="Screenshot 2025-02-09 at 8 30 02 PM" src="https://github.com/user-attachments/assets/237f7435-e869-404b-a10a-a5c40903b80f" />
+
 
 
 
