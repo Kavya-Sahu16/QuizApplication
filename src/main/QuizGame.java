@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class QuizGame {
     public static void main(String[] args) {
         // Load questions from file
-        QuizService quizService = new QuizService("questions.txt");
+        QuizService quizService = new QuizService("src/questions.txt");
         List<Question> questions = quizService.getQuestions();
         Scanner scanner = new Scanner(System.in);
         int score = 0;
